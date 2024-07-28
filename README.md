@@ -1,12 +1,10 @@
 
 ---
 
-# IDEA FUSION Blog Application
+# [IDEA FUSION Blog Application](#project-preview)
 
 A modern blog application built with React, Vite, Appwrite, and TailwindCSS. This application features a sleek user interface and powerful backend services for a seamless blogging experience. 
 
-![alt text](image.png)
-![alt text](image-1.png)
 ## Features
 
 - **User Authentication**: Secure login and signup functionality.
@@ -15,8 +13,6 @@ A modern blog application built with React, Vite, Appwrite, and TailwindCSS. Thi
 - **Responsive Design**: Built with TailwindCSS for a mobile-friendly and modern design.
 - **State Management**: Uses Redux for efficient state management.
 
-![alt text](image-2.png)
-![alt text](image-3.png)
 ## Tech Stack
 
 - **Frontend**: React, Vite, TailwindCSS
@@ -99,4 +95,11 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 - **Redux**: For state management.
 
 ---
-
+## Project Preview
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
