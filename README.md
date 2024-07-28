@@ -1,11 +1,13 @@
 
 ---
 
-# [IDEA FUSION Blog Application](#project-preview)
+# 🖥 [IDEA FUSION Blog Application](#project-preview)
 
 A modern blog application built with React, Vite, Appwrite, and TailwindCSS. This application features a sleek user interface and powerful backend services for a seamless blogging experience. 
 
-## Features
+https://github.com/user-attachments/assets/df59d009-0f44-4cdb-9bf8-38ea79535ca7
+
+## 💎 Features
 
 - **User Authentication**: Secure login and signup functionality.
 - **Post Management**: Create, update, and delete blog posts.
@@ -13,16 +15,16 @@ A modern blog application built with React, Vite, Appwrite, and TailwindCSS. Thi
 - **Responsive Design**: Built with TailwindCSS for a mobile-friendly and modern design.
 - **State Management**: Uses Redux for efficient state management.
 
-## Tech Stack
+## ▤ Tech Stack
 
 - **Frontend**: React, Vite, TailwindCSS
 - **Backend**: Appwrite (for authentication, database, and file storage)
 - **State Management**: Redux
 
-## Getting Started
+## 👊 Getting Started
 
 
-### Installation
+### 🟠 Installation
 
 1. **Clone the repository:**
 
@@ -57,7 +59,7 @@ A modern blog application built with React, Vite, Appwrite, and TailwindCSS. Thi
 
     Navigate to `http://localhost:3000` (or the port specified in your Vite configuration).
 
-## Configuration
+## 🛠️ Configuration
 
 1. **Environment Variables**
 
@@ -75,18 +77,18 @@ A modern blog application built with React, Vite, Appwrite, and TailwindCSS. Thi
 
    TailwindCSS is already configured. You can customize the styles by modifying the `tailwind.config.js` file.
 
-## Usage
+## 🏹 Usage
 
 - **Login/Signup**: Navigate to the authentication pages to log in or sign up.
 - **Post Management**: Create, update, or delete posts from the dashboard.
 - **Profile Management**: View and update your profile information.
 
-## Contributing
+## ❄ Contributing
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## Acknowledgements
+## 🔭 Acknowledgements
 
 - **React**: For building the user interface.
 - **Vite**: For fast build and development.
@@ -95,7 +97,7 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 - **Redux**: For state management.
 
 ---
-## Project Preview
+## 📽 Project Preview 🖼️
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
