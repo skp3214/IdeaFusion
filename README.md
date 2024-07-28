@@ -96,10 +96,10 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 
 ---
 ## Project Preview
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](/projectpreview/image.png)
+![alt text](/projectpreview/image-1.png)
+![alt text](/projectpreview/image-2.png)
+![alt text](/projectpreview/image-3.png)
+![alt text](/projectpreview/image-4.png)
+![alt text](/projectpreview/image-5.png)
+![alt text](/projectpreview/image-6.png)
