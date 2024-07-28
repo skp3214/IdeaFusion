@@ -20,10 +20,9 @@ const MyProfile = () => {
           const result = await allService.getPostsByUserId(userId);
           const userPosts = result.documents;
           setPosts(userPosts);
-          setUser(userPosts[0].username);
         }
       } catch (err) {
-        setError(err.message); // Set error message if there is an error
+        console.log(err.message); // Set error message if there is an error
       } finally {
         setLoading(false); // Set loading to false after fetching is done
       }
