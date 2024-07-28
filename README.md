@@ -1,7 +1,7 @@
 
 ---
 
-# 🖥 [IDEA FUSION Blog Application](#project-preview)
+# 🖥 [IDEA FUSION Blog Application](#-project-preview-️)
 
 A modern blog application built with React, Vite, Appwrite, and TailwindCSS. This application features a sleek user interface and powerful backend services for a seamless blogging experience. 
 
