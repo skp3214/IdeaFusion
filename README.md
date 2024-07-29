@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/df59d009-0f44-4cdb-9bf8-38ea79535ca7
 
 6. **Open the application in your browser:**
 
-    Navigate to `http://localhost:3000` (or the port specified in your Vite configuration).
+    Navigate to `http://localhost:5173` (or the port specified in your Vite configuration).
 
 ## 🛠️ Configuration
 
