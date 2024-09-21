@@ -43,17 +43,17 @@ const UserPosts = () => {
 
   return (
     <div>
-      <section className="bg-cover border-b-4 w-[96%] border-black bg-white bg-center py-32 px-8 mx-auto">
+      <section className="bg-cover border-b-4 w-full border-black bg-white bg-center pt-24 md:py-32 px-4 md:px-8 mx-auto">
         <div className="container mx-auto text-center text-gray-900">
-          <h2 className="text-7xl text-left font-semibold mb-4">
+          <h2 className="text-4xl md:text-7xl text-left font-semibold mb-4">
             Welcome To
           </h2>
           {user && (
-            <h1 className="mb-4 text-8xl pb-2 font-serif bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent text-left">
+            <h1 className="mb-4 text-5xl md:text-8xl pb-2 font-serif bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent text-left">
               {user} Blogs.
             </h1>
           )}
-          <h3 className="text-6xl text-left my-6 mb-8">
+          <h3 className="text-3xl md:text-6xl text-left my-6 mb-8">
             <span className='mx-2 font-bold font-sans'>Click.</span>
             <span className='mx-2 font-bold font-serif text-teal-500'>Read.</span>
           </h3>

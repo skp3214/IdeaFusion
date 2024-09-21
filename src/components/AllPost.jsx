@@ -36,13 +36,13 @@ const AllPosts = () => {
   }
 
   return (
-    <div className="min-h-screen bg-white pt-10 flex flex-col">
+    <div className=" bg-white pt-10 flex flex-col">
       <main className="flex-grow container mx-auto px-4">
-        <section className="bg-cover border-b-4 w-[97%] border-black bg-white bg-center p-20 px-8 mx-auto">
+        <section className="bg-cover border-b-4 w-full border-black bg-white bg-center p-10 md:p-20 mx-auto">
           <div className="container mx-auto text-center text-gray-900">
-            <h1 className="mb-4 text-7xl font-serif bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent text-left">Explore a World of Ideas</h1>
-            <h2 className="text-8xl text-left font-semibold mb-4">Discover All Our Posts in One Place!</h2>
-            <h3 className="text-6xl text-left my-6 mb-4">
+            <h1 className="mb-4 text-4xl md:text-7xl font-serif bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent text-left">Explore a World of Ideas</h1>
+            <h2 className="text-3xl md:text-8xl text-left font-semibold mb-4">Discover All Our Posts in One Place!</h2>
+            <h3 className="text-2xl md:text-6xl text-left my-6 mb-4">
               <span className='mx-2 bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent font-bold font-sans'>Click.</span>
               <span className='mx-2 font-bold font-serif text-teal-500'>Read.</span>
             </h3>

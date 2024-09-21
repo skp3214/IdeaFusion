@@ -29,11 +29,15 @@ const Home = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <main className="flex-grow  ">
-        <section className="bg-cover border-b-4 w-[96%] border-black bg-white bg-center py-32 px-8 mx-auto" >
+        <section className="bg-cover border-b-4 w-full border-black bg-white bg-center py-20 px-4 md:py-32 md:px-8 mx-auto">
           <div className="container mx-auto text-center text-gray-900">
-            <h1 className=" mb-4 text-9xl font-serif bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent text-left">IDEA FUSION</h1>
-            <h2 className="text-9xl text-left  font-semibold mb-4">Blogs.</h2>
-            <h3 className="text-6xl text-left my-6 mb-8"><span className='mx-2 font-bold font-sans'>Click.</span><span className='mx-2 font-bold font-serif text-teal-500'>Read.</span><span className='mx-2 italic font-mono text-teal-400 font-thin'>Post</span></h3>
+            <h1 className="mb-4 text-5xl md:text-9xl font-serif bg-gradient-to-l from-teal-400 via-cyan-900 to-red-500 bg-clip-text text-transparent text-left">IDEA FUSION</h1>
+            <h2 className="text-5xl md:text-9xl text-left font-semibold mb-4">Blogs.</h2>
+            <h3 className="text-3xl md:text-6xl text-left my-6 mb-8">
+              <span className='mx-2 font-bold font-sans'>Click.</span>
+              <span className='mx-2 font-bold font-serif text-teal-500'>Read.</span>
+              <span className='mx-2 italic font-mono text-teal-400 font-thin'>Post</span>
+            </h3>
             <button className="bg-teal-500 hover:bg-teal-800 text-white font-bold py-3 px-6 rounded"
             onClick={()=>{navigate('/createpost')}}
             >
